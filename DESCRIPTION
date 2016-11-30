@@ -1,10 +1,11 @@
 Package: osteoGIS
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Plot Data on Skeletal Templates
 Version: 0.1
 Date: 2016-11-30
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Author: David Orton
+Maintainer: David Orton <david.orton@york.ac.uk>
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
+License: GPL
 LazyData: TRUE
+RoxygenNote: 5.0.1
